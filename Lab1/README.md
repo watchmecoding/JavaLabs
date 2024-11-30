@@ -1,5 +1,5 @@
-Variant 4
+Variant 4 ( С = А х B, long, Обчислити суму найбільших елементів в рядках матриці з парними номерами та найменших елементів в рядках матриці з непарними номерами):
 1) Run the Java Code (Copy from Lab1_JustCode or download Lab1.rar with the project files)
-2) Enter amount of rows and cols for A and B matrixes (colsA = rowsB)
-3) Enter a number for each Matrixes "cell"
+2) Введіть кількість рядків та колонок для матриць А та В, при чому повинна задовільнятись умова colsA = rowsB.
+3) Заповніть кожну з матриць значеннями.
 4) Get your results
