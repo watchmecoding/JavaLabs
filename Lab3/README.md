@@ -8,4 +8,4 @@ Variant 4 (Визначити клас одяг, який складається
     Колір: Синій
     Ціна: 800,75
     Бренд: Levis
-4) Знайдено об'єкт: Clothing{type='Джинси', size='L', color='Синій', price=800.75, brand='Levis'}
+5) Знайдено об'єкт: Clothing{type='Джинси', size='L', color='Синій', price=800.75, brand='Levis'}
